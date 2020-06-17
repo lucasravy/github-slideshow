@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I think this is a GitHub's "hello world". 
+They say: Do what you love and the money will come to you. Just ordered pizza, now I am waiting… 🍕
 Use the left arrow to go back!
